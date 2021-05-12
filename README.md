@@ -1,6 +1,6 @@
-# PhD thesis: Particle-verb constructions in Hungarian
+# PhD thesis: Preverb constructions in Hungarian
 
-The thesis investigates Hungarian verbal particles and particle–verb constructions in a corpus-driven approach. Its main research questions are as follows: (1) Which lexical items can be classified as verbal particles, and what can be the grounds of their classification? (2) What kinds of structural patterns do particle–verb constructions show, when and to what extent can a particle be separated from a finite/non-finite verb or a deverbal element? (3) How can we describe the productive particle–verb patterns, and – based on this – what conclusions can be made about the semantics of verbal particles?
+The thesis investigates Hungarian preverbs and preverb constructions in a corpus-driven approach. Its main research questions are as follows: (1) Which lexical items can be classified as preverbs, and what can be the grounds of their classification? (2) What kinds of structural patterns do preverb constructions show, when and to what extent can a preverb be separated from a finite/non-finite verb or a deverbal element? (3) How can we describe the productive preverb–verb patterns, and – based on this – what conclusions can be made about the semantics of preverbs?
 
 ## Important note
 
